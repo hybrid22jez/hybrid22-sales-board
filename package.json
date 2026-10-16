@@ -1,0 +1,10 @@
+{
+  "name": "hybrid22-sales-board",
+  "private": true,
+  "type": "module",
+  "description": "Hybrid 22 office TV sales board: Mindbody sales trigger power-up celebrations, weekly goal and monthly boss fights.",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@netlify/blobs": "8.1.0"
+  }
+}
